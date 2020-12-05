@@ -9,7 +9,6 @@ html, body {
 @media (prefers-color-scheme: dark) {
     body {
 	background-image: linear-gradient(#3778c2, 7ed5ea);
-        /*background-image: linear-gradient(#3778c2, #150734);*/
         /*background-color: rgba(70,70,73,1.00);*/
         color: white;
     }
