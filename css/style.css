@@ -1,5 +1,4 @@
 html, body {
-	background-image: linear-gradient(red, yellow, blue);
     background-repeat: no-repeat;
     background-attachment: fixed;
     margin: 0;
@@ -13,7 +12,7 @@ html, body {
 }
 /*Standard Body CSS Starts*/
 body {
-    background-image: linear-gradient(#3778c2, 7ed5ea);
+    background-image: linear-gradient(#3778c2, #7ed5ea);
     margin: 0;
     font-family: 'Ubuntu', sans-serif;
     /*background-color: linen;*/
@@ -65,7 +64,6 @@ ul > li {
 /*Standard Body CSS Ends*/
 /*special Body Info Starts*/
 .bodycontent {
-    background-image: linear-gradient(#3778c2, 7ed5ea);
     text-align: left;
     padding: 75px 100px;
 }
